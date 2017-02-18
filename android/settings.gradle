@@ -1,0 +1,3 @@
+rootProject.name = 'spotifyCloud'
+
+include ':app'
